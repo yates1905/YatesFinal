@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+ text-align: center;
+ font-size: 30px;
+ font-family: PT Mono;
+}
+
+h3 {
+ text-align: center;
+ font-size: 19px; 
+ font-family: PT Mono; 
+}
+
+div {
+  width: 300px;
+  margin: 20px;
+  border: none;
+}
